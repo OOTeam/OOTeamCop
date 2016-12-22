@@ -1,0 +1,14 @@
+{
+	"category" : "OOTeamCop",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fake" ],
+	"name" : "ClassWithAMessageThatAssignsAVariable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

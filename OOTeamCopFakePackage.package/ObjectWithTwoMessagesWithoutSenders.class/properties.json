@@ -1,0 +1,14 @@
+{
+	"category" : "OOTeamCopFakePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ObjectWithTwoMessagesWithoutSenders",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+as yet unclassified
+testOOTeamCopIndicatesHowMuchMessagesHaveNoSenders
+
+	self assert: (OOTeamCop new numberOfMessagesWithoutSenders: ObjectWithTwoMessagesWithoutSenders) equals: 2

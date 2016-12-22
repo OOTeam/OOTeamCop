@@ -1,0 +1,15 @@
+{
+	"category" : "OOTeamCop",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numberOfMessagesWithoutSenders",
+		"numberOfBlankMessages" ],
+	"name" : "OOTeamCopReport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

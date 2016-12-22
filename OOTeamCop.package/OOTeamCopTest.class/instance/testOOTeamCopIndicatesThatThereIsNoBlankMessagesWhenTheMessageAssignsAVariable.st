@@ -1,0 +1,4 @@
+as yet unclassified
+testOOTeamCopIndicatesThatThereIsNoBlankMessagesWhenTheMessageAssignsAVariable
+
+	self assert: (OOTeamCop new numberOfBlankMessages: ClassWithAMessageThatAssignsAVariable) equals: 0

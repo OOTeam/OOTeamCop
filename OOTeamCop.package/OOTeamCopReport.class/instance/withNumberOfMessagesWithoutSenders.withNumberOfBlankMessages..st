@@ -1,0 +1,4 @@
+as yet unclassified
+withNumberOfMessagesWithoutSenders: aNumberOfMessagesWithoutSenders withNumberOfBlankMessages: aNumberOfBlankMessages
+	numberOfMessagesWithoutSenders := aNumberOfMessagesWithoutSenders.
+	numberOfBlankMessages := aNumberOfBlankMessages.

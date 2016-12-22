@@ -1,0 +1,4 @@
+as yet unclassified
+testOOTeamCopWillNotConsiderAMessageWithCommentsOnlyAsABlankMessage
+
+	self assert: (OOTeamCop new numberOfBlankMessages: ClassWithOneMessageWithOnlyComments) equals: 0
