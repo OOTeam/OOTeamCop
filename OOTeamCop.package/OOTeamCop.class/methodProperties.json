@@ -1,8 +1,10 @@
 {
 	"class" : {
-		"evaluatePackage:" : "MatiasMelendi 12/19/2016 22:55",
-		"packageFromName:" : "MatiasMelendi 12/19/2016 22:55" },
+		"evaluate:using:" : "Anonymous 1/19/2017 18:31",
+		"evaluateAll:using:" : "Anonymous 1/19/2017 18:29",
+		"packagesFromNames:" : "Anonymous 1/19/2017 18:31" },
 	"instance" : {
-		"evaluateClasses:" : "MatiasMelendi 12/19/2016 23:09",
-		"numberOfBlankMessages:" : "MatiasMelendi 12/19/2016 23:07",
-		"numberOfMessagesWithoutSenders:" : "MatiasMelendi 12/19/2016 23:07" } }
+		"applyRuleToPackage:" : "Anonymous 1/19/2017 18:28",
+		"initialize" : "Anonymous 1/19/2017 18:38",
+		"initializeEvaluatingAll:using:" : "Anonymous 1/4/2017 22:30",
+		"value" : "Anonymous 1/19/2017 18:27" } }

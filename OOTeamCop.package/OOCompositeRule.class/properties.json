@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"results" ],
-	"name" : "OOTeamCopReport",
+		"rules" ],
+	"name" : "OOCompositeRule",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "OOTeamRule",
 	"type" : "normal" }

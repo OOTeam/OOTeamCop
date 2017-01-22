@@ -1,3 +1,0 @@
-as yet unclassified
-newWithNumberOfMessagesWithoutSenders: aNumberOfMessagesWithoutSenders withNumberOfBlankMessages: aNumberOfBlankMessages 
-	^ self new withNumberOfMessagesWithoutSenders: aNumberOfMessagesWithoutSenders withNumberOfBlankMessages: aNumberOfBlankMessages.

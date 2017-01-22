@@ -1,6 +1,9 @@
-as yet unclassified
+Printing
 printOn: aStream
+"Shows title and rules results"
+
 	aStream nextPutAll: 'OOTeamCop common errors report'; lf.
 	aStream nextPutAll: '=========================================='; lf.
-	aStream nextPutAll: 'Number of messages without senders: '; print: self numberOfMessagesWithoutSenders; lf.
-	aStream nextPutAll: 'Number of blank messages: '; print: self numberOfBlankMessages; lf.
+	
+	results do:[:result | aStream nextPutAll: result value; lf ].
+	
