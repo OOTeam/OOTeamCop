@@ -1,0 +1,4 @@
+Evaluating
+value
+
+	^ self printString

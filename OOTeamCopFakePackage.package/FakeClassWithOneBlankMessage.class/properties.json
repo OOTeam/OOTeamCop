@@ -1,13 +1,13 @@
 {
-	"category" : "OOTeamCop",
+	"category" : "OOTeamCopFakePackage",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"results" ],
-	"name" : "OOTeamCopReport",
+		 ],
+	"name" : "FakeClassWithOneBlankMessage",
 	"pools" : [
 		 ],
 	"super" : "Object",

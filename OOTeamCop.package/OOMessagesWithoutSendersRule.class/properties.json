@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"results" ],
-	"name" : "OOTeamCopReport",
+		 ],
+	"name" : "OOMessagesWithoutSendersRule",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "OOTeamRule",
 	"type" : "normal" }

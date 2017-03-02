@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"results" ],
-	"name" : "OOTeamCopReport",
+		 ],
+	"name" : "OOBlankMessagesRule",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "OOTeamRule",
 	"type" : "normal" }

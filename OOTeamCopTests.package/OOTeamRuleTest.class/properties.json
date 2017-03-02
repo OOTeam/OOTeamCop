@@ -1,14 +1,14 @@
 {
-	"category" : "OOTeamCop",
+	"category" : "OOTeamCopTests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"results" ],
-	"name" : "OOTeamCopReport",
+		 ],
+	"name" : "OOTeamRuleTest",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "TestCase",
 	"type" : "normal" }

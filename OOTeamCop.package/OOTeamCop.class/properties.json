@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"packages",
+		"rule",
+		"ruleResults" ],
 	"name" : "OOTeamCop",
 	"pools" : [
 		 ],

@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"results" ],
-	"name" : "OOTeamCopReport",
+		 ],
+	"name" : "OOTeamRule",
 	"pools" : [
 		 ],
 	"super" : "Object",

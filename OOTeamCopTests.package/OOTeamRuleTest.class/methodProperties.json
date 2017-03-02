@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testOOBlankMessagesRuleIndicatesThatThereIsABlankMessageInAClassWithABlankMessage" : "Anonymous 1/20/2017 23:18",
+		"testOOBlankMessagesRuleIndicatesThatThereIsNoBlankMessagesWhenTheMessageAssignsAVariable" : "Anonymous 1/20/2017 23:19",
+		"testOOBlankMessagesRuleWillNotConsiderAMessageWithCommentsOnlyAsABlankMessage" : "Anonymous 1/20/2017 23:20",
+		"testOOCompositeRuleEvaluating" : "Anonymous 1/20/2017 23:15",
+		"testOOCompositeRuleEvaluatingAllRules" : "Anonymous 1/21/2017 23:35",
+		"testOOMessagesWithoutSendersRuleIndicatesThatThereIsTwoMessagesWithoutSendersInAClassWithTwoMessagesWithoutSenders" : "Anonymous 1/20/2017 23:19" } }

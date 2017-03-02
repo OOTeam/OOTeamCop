@@ -1,8 +1,6 @@
 {
 	"class" : {
-		"newWithNumberOfMessagesWithoutSenders:withNumberOfBlankMessages:" : "MatiasMelendi 12/19/2016 23:02" },
+		"ofAll:" : "Anonymous 1/19/2017 18:05" },
 	"instance" : {
-		"numberOfBlankMessages" : "MatiasMelendi 12/19/2016 23:04",
-		"numberOfMessagesWithoutSenders" : "MatiasMelendi 12/19/2016 23:03",
-		"printOn:" : "MatiasMelendi 12/19/2016 23:44",
-		"withNumberOfMessagesWithoutSenders:withNumberOfBlankMessages:" : "MatiasMelendi 12/19/2016 23:03" } }
+		"initializeOfAll:" : "Anonymous 1/19/2017 18:06",
+		"printOn:" : "Anonymous 1/19/2017 19:12" } }
