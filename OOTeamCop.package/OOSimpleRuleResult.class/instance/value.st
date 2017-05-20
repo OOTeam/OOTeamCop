@@ -1,4 +1,4 @@
 Evaluating
 value
 
-	^ self printString
+	^ rule valueForResultOf: evaluatedClass accoringToPrintingResult: self printString

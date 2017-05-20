@@ -1,0 +1,14 @@
+{
+	"category" : "OOTeamCop",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OOSuperclassInAnUnnecesaryHierarchyRule",
+	"pools" : [
+		 ],
+	"super" : "OOTeamRule",
+	"type" : "normal" }

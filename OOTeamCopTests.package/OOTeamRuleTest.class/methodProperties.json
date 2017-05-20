@@ -6,5 +6,8 @@
 		"testOOBlankMessagesRuleIndicatesThatThereIsNoBlankMessagesWhenTheMessageAssignsAVariable" : "Anonymous 1/20/2017 23:19",
 		"testOOBlankMessagesRuleWillNotConsiderAMessageWithCommentsOnlyAsABlankMessage" : "Anonymous 1/20/2017 23:20",
 		"testOOCompositeRuleEvaluating" : "Anonymous 1/20/2017 23:15",
-		"testOOCompositeRuleEvaluatingAllRules" : "Anonymous 1/21/2017 23:35",
-		"testOOMessagesWithoutSendersRuleIndicatesThatThereIsTwoMessagesWithoutSendersInAClassWithTwoMessagesWithoutSenders" : "Anonymous 1/20/2017 23:19" } }
+		"testOOCompositeRuleEvaluatingAllRules" : "Alvaro 5/7/2017 23:40",
+		"testOOLargeMessageRuleIndicatesThatThereIsALargeMessageInFakeClassWithTwoMessagesWithoutSenders" : "Alvaro 5/7/2017 23:51",
+		"testOOMessagesWithoutSendersRuleIndicatesThatThereIsTwoMessagesWithoutSendersInAClassWithTwoMessagesWithoutSenders" : "Anonymous 1/20/2017 23:19",
+		"testOOUnnecesaryHierarchyRuleIndicatesThatThereIsAnUnnecesaryHierarchy" : "Alvaro 4/16/2017 17:51",
+		"testOOUnnecesaryHierarchyRuleIndicatesThatThereIsNotAnUnnecesaryHierarchy" : "Alvaro 4/16/2017 17:46" } }

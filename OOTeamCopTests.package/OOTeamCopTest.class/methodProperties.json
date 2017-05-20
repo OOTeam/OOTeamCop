@@ -2,6 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingBlankMessageRule" : "Anonymous 1/20/2017 22:54",
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingCompositeRuleWithNoSendersRuleAndBlankMessageRule" : "Anonymous 1/20/2017 23:28",
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingNoSendersRule" : "Anonymous 1/20/2017 23:11" } }
+		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingBlankMessageRule" : "Alvaro 5/7/2017 23:41",
+		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingCompositeRuleWithNoSendersRuleAndBlankMessageRule" : "Alvaro 5/7/2017 23:42",
+		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingNoSendersRule" : "Alvaro 5/7/2017 23:44" } }

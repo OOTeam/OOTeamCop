@@ -1,0 +1,14 @@
+{
+	"category" : "OOTeamCopFakePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FakeEmptySubclass",
+	"pools" : [
+		 ],
+	"super" : "FakeClassWithOneBlankMessage",
+	"type" : "normal" }

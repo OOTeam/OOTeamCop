@@ -11,7 +11,8 @@ testOOTeamCopEvaluatesAllClassesOfAPackageUsingBlankMessageRule
 			'OOTeamCop common errors report
 ==========================================
 
-FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
 
+
+FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
 
 '
