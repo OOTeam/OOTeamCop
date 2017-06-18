@@ -20,7 +20,8 @@
 		"packageProcess",
 		"showOnlyRepositoriesFromWorkingCopy",
 		"selectedRules",
-		"listMorph" ],
+		"listMorph",
+		"workingCopyListMorph" ],
 	"name" : "OOTeamCopView",
 	"pools" : [
 		 ],
