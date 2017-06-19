@@ -1,14 +1,11 @@
 {
-	"category" : "OOTeamCop",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "OOLargeMessageRule",
-	"pools" : [
-		 ],
 	"super" : "OOTeamRule",
-	"type" : "normal" }
+	"category" : "OOTeamCop",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OOLargeMessageRule",
+	"type" : "normal"
+}

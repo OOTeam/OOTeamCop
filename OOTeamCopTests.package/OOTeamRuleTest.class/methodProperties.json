@@ -1,13 +1,14 @@
 {
-	"class" : {
-		 },
 	"instance" : {
+		"testOOCompositeRuleEvaluating" : "Anonymous 6/18/2017 20:51",
 		"testOOBlankMessagesRuleIndicatesThatThereIsABlankMessageInAClassWithABlankMessage" : "Anonymous 1/20/2017 23:18",
-		"testOOBlankMessagesRuleIndicatesThatThereIsNoBlankMessagesWhenTheMessageAssignsAVariable" : "Anonymous 1/20/2017 23:19",
 		"testOOBlankMessagesRuleWillNotConsiderAMessageWithCommentsOnlyAsABlankMessage" : "Anonymous 1/20/2017 23:20",
-		"testOOCompositeRuleEvaluating" : "Anonymous 1/20/2017 23:15",
-		"testOOCompositeRuleEvaluatingAllRules" : "Alvaro 5/7/2017 23:40",
-		"testOOLargeMessageRuleIndicatesThatThereIsALargeMessageInFakeClassWithTwoMessagesWithoutSenders" : "Alvaro 5/7/2017 23:51",
 		"testOOMessagesWithoutSendersRuleIndicatesThatThereIsTwoMessagesWithoutSendersInAClassWithTwoMessagesWithoutSenders" : "Anonymous 1/20/2017 23:19",
+		"testOOUnnecesaryHierarchyRuleIndicatesThatThereIsNotAnUnnecesaryHierarchy" : "Alvaro 4/16/2017 17:46",
 		"testOOUnnecesaryHierarchyRuleIndicatesThatThereIsAnUnnecesaryHierarchy" : "Alvaro 4/16/2017 17:51",
-		"testOOUnnecesaryHierarchyRuleIndicatesThatThereIsNotAnUnnecesaryHierarchy" : "Alvaro 4/16/2017 17:46" } }
+		"testOOLargeMessageRuleIndicatesThatThereIsALargeMessageInFakeClassWithTwoMessagesWithoutSenders" : "Alvaro 5/7/2017 23:51",
+		"testOOCompositeRuleEvaluatingAllRules" : "Anonymous 6/18/2017 20:52",
+		"testOOBlankMessagesRuleIndicatesThatThereIsNoBlankMessagesWhenTheMessageAssignsAVariable" : "Anonymous 1/20/2017 23:19"
+	},
+	"class" : { }
+}

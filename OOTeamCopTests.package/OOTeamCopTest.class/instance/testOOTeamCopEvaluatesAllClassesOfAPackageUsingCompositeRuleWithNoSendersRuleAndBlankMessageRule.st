@@ -16,16 +16,16 @@ FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageTwo has no senders
 	FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageOne has no senders
 -----------------------
 	
+FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
+-----------------------
+	FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
+-----------------------
+	
 FakeClassWithAMessageThatAssignsAVariable>>#assignInstanceVariable has no senders
 	FakeClassWithAMessageThatAssignsAVariable>>#assignTemporaryVariable has no senders
 -----------------------
 	
 FakeClassWithOneMessageWithOnlyComments>>#messageWithCommentsOnly has no senders
------------------------
-	
-FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
------------------------
-	FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
 -----------------------
 	
 

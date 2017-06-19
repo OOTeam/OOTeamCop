@@ -1,14 +1,11 @@
 {
-	"category" : "OOTeamCopFakePackage",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "FakeClassWithTwoMessagesWithoutSenders",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "OOTeamCopFakePackage",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FakeClassWithTwoMessagesWithoutSenders",
+	"type" : "normal"
+}

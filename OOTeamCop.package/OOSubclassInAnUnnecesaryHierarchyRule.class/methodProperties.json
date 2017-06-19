@@ -1,8 +1,9 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"applyTo:" : "Alvaro 4/16/2017 17:39",
 		"methodErrorMessage" : "Alvaro 4/16/2017 17:38",
+		"applyTo:" : "Alvaro 4/16/2017 17:39",
 		"name" : "Alvaro 4/16/2017 17:39",
-		"valueForResultOf:accoringToPrintingResult:" : "Alvaro 4/16/2017 17:40" } }
+		"valueForResultOf:accoringToPrintingResult:" : "Alvaro 4/16/2017 17:40"
+	},
+	"class" : { }
+}

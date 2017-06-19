@@ -1,6 +1,9 @@
 {
-	"class" : {
-		"ofAll:" : "Anonymous 1/19/2017 18:05" },
 	"instance" : {
 		"initializeOfAll:" : "Anonymous 1/19/2017 18:06",
-		"printOn:" : "Anonymous 1/19/2017 19:12" } }
+		"printOn:" : "Anonymous 1/19/2017 19:12"
+	},
+	"class" : {
+		"ofAll:" : "Anonymous 1/19/2017 18:05"
+	}
+}

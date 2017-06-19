@@ -1,9 +1,10 @@
 {
-	"class" : {
-		 },
 	"instance" : {
+		"valueForResultOf:accoringToPrintingResult:" : "Alvaro 5/7/2017 23:28",
 		"applyTo:" : "Alvaro 5/7/2017 23:51",
-		"maxLinesOfCode" : "Alvaro 5/7/2017 23:30",
 		"methodErrorMessage" : "Alvaro 5/7/2017 23:27",
 		"name" : "Alvaro 5/7/2017 23:26",
-		"valueForResultOf:accoringToPrintingResult:" : "Alvaro 5/7/2017 23:28" } }
+		"maxLinesOfCode" : "Alvaro 5/7/2017 23:30"
+	},
+	"class" : { }
+}

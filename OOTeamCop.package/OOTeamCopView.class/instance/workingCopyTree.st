@@ -2,7 +2,7 @@ Morphic-UI
 workingCopyTree
 
 	| workingCopies |
-self halt.
+
 	workingCopies := self workingCopies.
 	
 	"filter the working copy list if there is a serach string"

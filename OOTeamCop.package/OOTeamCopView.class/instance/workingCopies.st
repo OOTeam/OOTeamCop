@@ -1,5 +1,6 @@
 Morphic-UI
 workingCopies
+
 	^ (self orderSpecs size = order
 		ifTrue: [ self allManagers select: [ :each | each modified ] ]
 		ifFalse: [ self allManagers ])

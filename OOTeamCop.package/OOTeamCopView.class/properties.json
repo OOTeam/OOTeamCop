@@ -1,13 +1,14 @@
 {
+	"commentStamp" : "",
+	"super" : "MCTool",
 	"category" : "OOTeamCop",
 	"classinstvars" : [
-		"repositorySearchList",
-		"repositorySearchMaxSize",
-		"workingCopySearchList",
-		"workingCopySearchMaxSize" ],
+		"workingCopySearchList"
+	],
+	"pools" : [ ],
 	"classvars" : [
-		"Order" ],
-	"commentStamp" : "",
+		"Order"
+	],
 	"instvars" : [
 		"workingCopy",
 		"workingCopyWrapper",
@@ -21,9 +22,8 @@
 		"showOnlyRepositoriesFromWorkingCopy",
 		"selectedRules",
 		"listMorph",
-		"workingCopyListMorph" ],
+		"workingCopyListMorph"
+	],
 	"name" : "OOTeamCopView",
-	"pools" : [
-		 ],
-	"super" : "MCTool",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,7 +1,5 @@
 Morphic-UI
-buildWindow 	
-
-	|window|
+buildWindow
+	| window |
 	window := super buildWindow.
-	"self repositoryListChanged."
-	^window
+	^ window

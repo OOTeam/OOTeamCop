@@ -1,3 +1,0 @@
-Morphic-UI
-workingCopySearchMaxSize
-	^self class workingCopySearchMaxSize

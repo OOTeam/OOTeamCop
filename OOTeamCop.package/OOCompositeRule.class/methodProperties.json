@@ -1,12 +1,15 @@
 {
-	"class" : {
-		"allRulesExceptComposite" : "Anonymous 1/21/2017 23:39",
-		"composing:" : "Anonymous 1/19/2017 18:10",
-		"composingAllRules" : "Anonymous 1/21/2017 23:30" },
 	"instance" : {
-		"applyTo:" : "Anonymous 1/19/2017 18:24",
-		"initialize" : "Anonymous 1/19/2017 18:11",
 		"initializeComposing:" : "Anonymous 1/19/2017 18:10",
+		"initialize" : "Anonymous 1/19/2017 18:11",
+		"applyTo:" : "Anonymous 1/19/2017 18:24",
+		"valueForResultOf:accoringToPrintingResult:" : "Alvaro 4/16/2017 17:27",
 		"methodErrorMessage" : "Anonymous 1/19/2017 17:54",
-		"name" : "Alvaro 3/30/2017 22:26",
-		"valueForResultOf:accoringToPrintingResult:" : "Alvaro 4/16/2017 17:27" } }
+		"name" : "Alvaro 3/30/2017 22:26"
+	},
+	"class" : {
+		"composingAllRules" : "Anonymous 1/21/2017 23:30",
+		"composing:" : "Anonymous 1/19/2017 18:10",
+		"allRulesExceptComposite" : "Anonymous 1/21/2017 23:39"
+	}
+}

@@ -1,14 +1,13 @@
 {
-	"category" : "OOTeamCopFakePackage",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"fake" ],
-	"name" : "FakeClassWithAMessageThatAssignsAVariable",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "OOTeamCopFakePackage",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fake"
+	],
+	"name" : "FakeClassWithAMessageThatAssignsAVariable",
+	"type" : "normal"
+}

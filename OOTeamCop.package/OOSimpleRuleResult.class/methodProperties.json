@@ -1,9 +1,12 @@
 {
-	"class" : {
-		"of:in:from:" : "Anonymous 1/19/2017 17:49" },
 	"instance" : {
-		"initialize" : "Anonymous 1/19/2017 18:24",
-		"initializeOf:in:from:" : "Alvaro 4/16/2017 17:07",
-		"printOn:" : "Anonymous 1/20/2017 23:27",
 		"rule" : "Anonymous 1/19/2017 19:03",
-		"value" : "Alvaro 4/16/2017 17:15" } }
+		"value" : "Alvaro 4/16/2017 17:15",
+		"printOn:" : "Anonymous 1/20/2017 23:27",
+		"initialize" : "Anonymous 1/19/2017 18:24",
+		"initializeOf:in:from:" : "Alvaro 4/16/2017 17:07"
+	},
+	"class" : {
+		"of:in:from:" : "Anonymous 1/19/2017 17:49"
+	}
+}

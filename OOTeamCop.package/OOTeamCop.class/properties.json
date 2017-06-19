@@ -1,16 +1,15 @@
 {
-	"category" : "OOTeamCop",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OOTeamCop",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"packages",
 		"rule",
-		"ruleResults" ],
+		"ruleResults"
+	],
 	"name" : "OOTeamCop",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -5,9 +5,9 @@ testOOCompositeRuleEvaluatingAllRules
 	self
 		assert: (OOCompositeRule composingAllRules applyTo: FakeClassWithOneBlankMessage) value
 		equals:
-			'FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
+			'FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
 -----------------------
-	FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
+	FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
 -----------------------
 	FakeClassWithOneBlankMessage is superClass in an unnecesary hierachy
 -----------------------

@@ -1,16 +1,15 @@
 {
-	"category" : "OOTeamCop",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "OORuleResult",
+	"category" : "OOTeamCop",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"results",
 		"rule",
-		"evaluatedClass" ],
+		"evaluatedClass"
+	],
 	"name" : "OOSimpleRuleResult",
-	"pools" : [
-		 ],
-	"super" : "OORuleResult",
-	"type" : "normal" }
+	"type" : "normal"
+}
