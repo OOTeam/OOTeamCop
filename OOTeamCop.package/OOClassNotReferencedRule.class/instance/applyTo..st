@@ -1,7 +1,5 @@
 Applying
 applyTo: aClass
-
-	^ OOSimpleRuleResult
-		of: #()
-		in: aClass
-		from: self
+	^ (self hasReferences: aClass)
+		ifTrue: [ OOSimpleRuleResult passOf: aClass accordingTo: self ]
+		ifFalse: [ OOSimpleRuleResult failureOf: #() in: aClass accordingTo: self ]

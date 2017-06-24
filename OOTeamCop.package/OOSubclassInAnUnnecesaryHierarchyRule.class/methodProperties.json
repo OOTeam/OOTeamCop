@@ -1,9 +1,11 @@
 {
 	"instance" : {
+		"passedRuleTextFor:" : "Anonymous 6/24/2017 16:51",
+		"applyTo:" : "Anonymous 6/24/2017 18:49",
+		"valueForResultOf:accoringToPrintingResult:" : "Anonymous 6/24/2017 18:27",
 		"methodErrorMessage" : "Alvaro 4/16/2017 17:38",
-		"applyTo:" : "Alvaro 4/16/2017 17:39",
-		"name" : "Alvaro 4/16/2017 17:39",
-		"valueForResultOf:accoringToPrintingResult:" : "Alvaro 4/16/2017 17:40"
+		"isUniqueSubclassInHierarchy:" : "Anonymous 6/24/2017 18:27",
+		"name" : "Alvaro 4/16/2017 17:39"
 	},
 	"class" : { }
 }

@@ -1,4 +1,9 @@
-as yet unclassified
+Applying
 applyTo: aClass
-
-	^ OOSimpleRuleResult of: (aClass methods select: [ :method | method linesOfCode > self maxLinesOfCode ]) in: aClass from: self.
+	| methodResults |
+	"Seguro se puede mejorar"
+	methodResults := aClass methods
+		select: [ :method | method linesOfCode > self maxLinesOfCode ].
+	^ methodResults
+		ifEmpty: [ OOSimpleRuleResult passOf: aClass accordingTo: self ]
+		ifNotEmpty: [ OOSimpleRuleResult failureOf: methodResults in: aClass accordingTo: self ]

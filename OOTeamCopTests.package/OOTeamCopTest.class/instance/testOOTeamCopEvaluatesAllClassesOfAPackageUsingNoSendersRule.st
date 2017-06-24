@@ -11,10 +11,11 @@ testOOTeamCopEvaluatesAllClassesOfAPackageUsingNoSendersRule
 			'OOTeamCop common errors report
 ==========================================
 FakeClassWithAMessageThatAssignsAVariable>>#assignInstanceVariable has no senders
-	FakeClassWithAMessageThatAssignsAVariable>>#assignTemporaryVariable has no senders
-
+FakeClassWithAMessageThatAssignsAVariable>>#assignTemporaryVariable has no senders
+La clase FakeClassWithNoReferences no tiene mensajes sin senders
+La clase FakeEmptySubclass no tiene mensajes sin senders
 FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
 FakeClassWithOneMessageWithOnlyComments>>#messageWithCommentsOnly has no senders
 FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageTwo has no senders
-	FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageOne has no senders
+FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageOne has no senders
 '

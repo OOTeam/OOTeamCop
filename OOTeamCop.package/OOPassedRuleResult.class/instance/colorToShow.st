@@ -1,0 +1,3 @@
+Initialization
+colorToShow
+	^ Color green

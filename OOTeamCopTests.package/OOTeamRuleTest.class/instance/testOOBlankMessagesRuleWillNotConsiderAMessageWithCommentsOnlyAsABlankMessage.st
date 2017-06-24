@@ -3,4 +3,4 @@ testOOBlankMessagesRuleWillNotConsiderAMessageWithCommentsOnlyAsABlankMessage
 
 	self
 		assert: (OOBlankMessagesRule new applyTo: FakeClassWithOneMessageWithOnlyComments) value
-		equals: ''
+		equals: 'La clase FakeClassWithOneMessageWithOnlyComments no tiene mensajes vacios'

@@ -7,8 +7,12 @@ testOOCompositeRuleEvaluatingAllRules
 		equals:
 			'FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
 -----------------------
+	La clase FakeClassWithOneBlankMessage no tiene mensajes largos
+-----------------------
 	FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
 -----------------------
-	FakeClassWithOneBlankMessage is superClass in an unnecesary hierachy
+	La clase FakeClassWithOneBlankMessage no es superclase en una jerarquia innecesaria
+-----------------------
+	La clase FakeClassWithOneBlankMessage no es una clase sin referencias
 -----------------------
 	'

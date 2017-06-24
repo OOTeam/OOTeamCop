@@ -1,7 +1,5 @@
-as yet unclassified
+Applying
 applyTo: aClass
-
-	^ OOSimpleRuleResult
-		of: #()
-		in: aClass
-		from: self
+	^ (self hasOnlyOneSubclass: aClass)
+		ifTrue: [ OOSimpleRuleResult failureOf: #() in: aClass accordingTo: self ]
+		ifFalse: [ OOSimpleRuleResult passOf: aClass accordingTo: self ]

@@ -3,4 +3,4 @@ testOOBlankMessagesRuleIndicatesThatThereIsNoBlankMessagesWhenTheMessageAssignsA
 
 	self
 		assert: (OOBlankMessagesRule new applyTo: FakeClassWithAMessageThatAssignsAVariable) value
-		equals: ''
+		equals: 'La clase FakeClassWithAMessageThatAssignsAVariable no tiene mensajes vacios'

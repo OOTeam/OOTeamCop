@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OOSimpleRuleResult",
+	"category" : "OOTeamCop",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OOPassedRuleResult",
+	"type" : "normal"
+}

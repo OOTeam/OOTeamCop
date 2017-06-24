@@ -6,7 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"results",
 		"rule",
 		"evaluatedClass"
 	],
