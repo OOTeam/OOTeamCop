@@ -1,14 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "ComposableModel",
 	"category" : "OOTeamCop",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
 		"results",
-		"builder"
+		"resultsDecorators"
 	],
-	"name" : "OOTeamCopResultView",
+	"name" : "OOTeamCopResultViewSpec",
 	"type" : "normal"
 }

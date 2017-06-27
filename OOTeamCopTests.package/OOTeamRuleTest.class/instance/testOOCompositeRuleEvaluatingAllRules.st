@@ -11,7 +11,9 @@ testOOCompositeRuleEvaluatingAllRules
 -----------------------
 	FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
 -----------------------
-	La clase FakeClassWithOneBlankMessage no es superclase en una jerarquia innecesaria
+	La clase FakeClassWithOneBlankMessage no es subclase en una jerarquia innecesaria
+-----------------------
+	FakeClassWithOneBlankMessage is superClass in an unnecesary hierachy
 -----------------------
 	La clase FakeClassWithOneBlankMessage no es una clase sin referencias
 -----------------------
