@@ -2,6 +2,6 @@ Tests
 testOOUnnecesaryHierarchyRuleIndicatesThatThereIsNotAnUnnecesaryHierarchy
 	self
 		assert: (OOSuperclassInAnUnnecesaryHierarchyRule new applyTo: FakeClassWithTwoMessagesWithoutSenders) value
-			equals: 'La clase FakeClassWithTwoMessagesWithoutSenders no es superclase en una jerarquia innecesaria';
+			equals: 'The class FakeClassWithTwoMessagesWithoutSenders is not superclass in an unnecesary hierarchy';
 		assert: (OOSubclassInAnUnnecesaryHierarchyRule new applyTo: FakeClassWithTwoMessagesWithoutSenders) value
-			equals: 'La clase FakeClassWithTwoMessagesWithoutSenders no es subclase en una jerarquia innecesaria'
+			equals: 'The class FakeClassWithTwoMessagesWithoutSenders is not subclass in an unnecesary hierarchy'

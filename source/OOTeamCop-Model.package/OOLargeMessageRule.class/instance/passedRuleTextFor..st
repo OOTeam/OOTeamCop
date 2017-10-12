@@ -1,3 +1,3 @@
 Applying
 passedRuleTextFor: evaluatedClass
-	^ 'La clase ' , evaluatedClass printString , ' no tiene mensajes largos'
+	^ 'The class ' , evaluatedClass printString , ' does not have large messages'

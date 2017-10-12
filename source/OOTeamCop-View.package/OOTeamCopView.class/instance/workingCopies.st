@@ -1,4 +1,4 @@
-Morphic-UI
+Working Copy 
 workingCopies
 
 	^ (self orderSpecs size = order

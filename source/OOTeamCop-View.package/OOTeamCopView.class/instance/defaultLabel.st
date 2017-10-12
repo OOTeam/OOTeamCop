@@ -1,3 +1,3 @@
-Morphic-UI
+Accessing
 defaultLabel
 	^ 'Object Team Cop'

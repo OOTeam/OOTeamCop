@@ -1,3 +1,3 @@
 Applying
 passedRuleTextFor: evaluatedClass
-	^ 'La clase ' , evaluatedClass printString , ' no es subclase en una jerarquia innecesaria'
+	^ 'The class ' , evaluatedClass printString , ' is not subclass in an unnecesary hierarchy'

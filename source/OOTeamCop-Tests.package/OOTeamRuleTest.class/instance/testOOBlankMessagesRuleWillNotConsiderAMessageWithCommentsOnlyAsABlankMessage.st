@@ -1,6 +1,7 @@
 Tests
 testOOBlankMessagesRuleWillNotConsiderAMessageWithCommentsOnlyAsABlankMessage
-
+|classToTest|
+classToTest := Smalltalk classNamed: #FakeClassWithOneMessageWithOnlyComments.
 	self
-		assert: (OOBlankMessagesRule new applyTo: FakeClassWithOneMessageWithOnlyComments) value
-		equals: 'La clase FakeClassWithOneMessageWithOnlyComments no tiene mensajes vacios'
+		assert: (OOBlankMessagesRule new applyTo: classToTest) value
+		equals: 'The class FakeClassWithOneMessageWithOnlyComments does not have empty mesaages'

@@ -1,3 +1,3 @@
 Applying
 passedRuleTextFor: evaluatedClass
-	^ 'La clase ' , evaluatedClass printString , ' no tiene mensajes sin senders'
+	^ 'The class ' , evaluatedClass printString , ' does not ahve messages without senders'

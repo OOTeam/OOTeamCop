@@ -1,4 +1,4 @@
-Morphic-UI
+Working Copy 
 workingCopySelectionWrapper: aWrapper
 
 	workingCopyWrapper := aWrapper.

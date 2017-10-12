@@ -1,5 +1,5 @@
 Applying
 applyTo: aClass
-	^ (self isUniqueSubclassInHierarchy: aClass)
+	^ ((aClass inheritsFrom: Trait) not and: [ self isUniqueSubclassInHierarchy: aClass ])
 		ifTrue: [ OOSimpleRuleResult failureOf: #() in: aClass accordingTo: self ]
 		ifFalse: [ OOSimpleRuleResult passOf: aClass accordingTo: self ]

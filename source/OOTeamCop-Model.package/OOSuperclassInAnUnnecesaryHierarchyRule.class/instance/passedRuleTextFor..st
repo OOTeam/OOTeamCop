@@ -1,4 +1,4 @@
 Applying
 passedRuleTextFor: evaluatedClass
-	^ 'La clase ' , evaluatedClass printString
-		, ' no es superclase en una jerarquia innecesaria'
+	^ 'The class ' , evaluatedClass printString
+		, ' is not superclass in an unnecesary hierarchy'

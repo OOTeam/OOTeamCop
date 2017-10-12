@@ -1,4 +1,4 @@
-Morphic-UI
+Updating
 workingCopyListChanged
 	self changed: #workingCopyList.
 	self changed: #workingCopyTree.

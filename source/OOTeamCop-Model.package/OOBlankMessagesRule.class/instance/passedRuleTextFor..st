@@ -1,3 +1,3 @@
 Accessing
 passedRuleTextFor: evaluatedClass
-	^ 'La clase ' , evaluatedClass printString , ' no tiene mensajes vacios'
+	^ 'The class ' , evaluatedClass printString , ' does not have empty mesaages'

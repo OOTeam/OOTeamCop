@@ -1,4 +1,4 @@
-Morphic-UI
+Working Copy 
 workingCopy: wc
 
 	workingCopy := wc.

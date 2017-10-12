@@ -1,3 +1,3 @@
 Initialization
 colorToShow
-	^ Color green
+	^ Color r:0 g:100 b:0

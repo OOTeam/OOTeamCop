@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingCompositeRuleWithNoSendersRuleAndBlankMessageRule" : "Anonymous 6/24/2017 18:51",
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingBlankMessageRule" : "Anonymous 6/24/2017 18:50",
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingNoSendersRule" : "Anonymous 6/24/2017 18:51"
+		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingCompositeRuleWithNoSendersRuleAndBlankMessageRule" : "Alvaro 10/12/2017 15:29",
+		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingBlankMessageRule" : "Alvaro 10/12/2017 15:28",
+		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingNoSendersRule" : "Alvaro 10/12/2017 15:29"
 	},
 	"class" : { }
 }

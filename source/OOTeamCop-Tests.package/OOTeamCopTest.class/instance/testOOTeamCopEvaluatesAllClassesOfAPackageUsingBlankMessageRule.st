@@ -3,17 +3,17 @@ testOOTeamCopEvaluatesAllClassesOfAPackageUsingBlankMessageRule
 	
 	| ooTeamCopReport |
 	ooTeamCopReport := OOTeamCop
-		evaluate: 'OOTeamCopFakePackage'
+		evaluate: 'OOTeamCop-FakeTestPackage'
 		using: OOBlankMessagesRule new.
 	self
 		assert: ooTeamCopReport value printString
 		equals:
 			'OOTeamCop common errors report
 ==========================================
-La clase FakeClassWithAMessageThatAssignsAVariable no tiene mensajes vacios
-La clase FakeClassWithNoReferences no tiene mensajes vacios
-La clase FakeEmptySubclass no tiene mensajes vacios
+The class FakeClassWithOneMessageWithOnlyComments does not have empty mesaages
+The class FakeClassWithTwoMessagesWithoutSenders does not have empty mesaages
+The class FakeClassWithAMessageThatAssignsAVariable does not have empty mesaages
+The class FakeEmptySubclass does not have empty mesaages
 FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
-La clase FakeClassWithOneMessageWithOnlyComments no tiene mensajes vacios
-La clase FakeClassWithTwoMessagesWithoutSenders no tiene mensajes vacios
+The class FakeClassWithNoReferences does not have empty mesaages
 '

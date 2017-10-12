@@ -1,4 +1,4 @@
-Morphic-UI
+Working Copy 
 workingCopySearchField
 	^ SearchMorph new
 		model: self;

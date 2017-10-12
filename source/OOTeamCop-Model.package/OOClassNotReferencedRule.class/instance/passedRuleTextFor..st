@@ -1,3 +1,3 @@
 Applying
 passedRuleTextFor: evaluatedClass
-	^ 'La clase ' , evaluatedClass printString , ' no es una clase sin referencias'
+	^ 'The  class ' , evaluatedClass printString , ' has references'

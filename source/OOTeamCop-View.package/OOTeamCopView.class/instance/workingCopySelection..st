@@ -1,4 +1,4 @@
-Morphic-UI
+Working Copy 
 workingCopySelection: aNumber
 	self workingCopy: 
 		(aNumber = 0 

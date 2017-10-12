@@ -1,4 +1,4 @@
-Morphic-UI
+Accessing
 orderSpecs
 	^ {
 		'Sort alphabetically' -> [ :a :b | a package name <= b package name ].

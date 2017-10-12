@@ -3,7 +3,7 @@ testOOTeamCopEvaluatesAllClassesOfAPackageUsingCompositeRuleWithNoSendersRuleAnd
 	| ooTeamCopReport |
 	
 	ooTeamCopReport := OOTeamCop
-		evaluate: 'OOTeamCopFakePackage'
+		evaluate: 'OOTeamCop-FakeTestPackage'
 		using:
 			(OOCompositeRule
 				composing: (OrderedCollection with: OOMessagesWithoutSendersRule new with: OOBlankMessagesRule new)).
@@ -12,20 +12,26 @@ testOOTeamCopEvaluatesAllClassesOfAPackageUsingCompositeRuleWithNoSendersRuleAnd
 		equals:
 			'OOTeamCop common errors report
 ==========================================
+FakeClassWithOneMessageWithOnlyComments>>#messageWithCommentsOnly has no senders
+-----------------------
+	The class FakeClassWithOneMessageWithOnlyComments does not have empty mesaages
+-----------------------
+	
+FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageTwo has no senders
+FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageOne has no senders
+-----------------------
+	The class FakeClassWithTwoMessagesWithoutSenders does not have empty mesaages
+-----------------------
+	
 FakeClassWithAMessageThatAssignsAVariable>>#assignInstanceVariable has no senders
 FakeClassWithAMessageThatAssignsAVariable>>#assignTemporaryVariable has no senders
 -----------------------
-	La clase FakeClassWithAMessageThatAssignsAVariable no tiene mensajes vacios
+	The class FakeClassWithAMessageThatAssignsAVariable does not have empty mesaages
 -----------------------
 	
-La clase FakeClassWithNoReferences no tiene mensajes sin senders
+The class FakeEmptySubclass does not ahve messages without senders
 -----------------------
-	La clase FakeClassWithNoReferences no tiene mensajes vacios
------------------------
-	
-La clase FakeEmptySubclass no tiene mensajes sin senders
------------------------
-	La clase FakeEmptySubclass no tiene mensajes vacios
+	The class FakeEmptySubclass does not have empty mesaages
 -----------------------
 	
 FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
@@ -33,15 +39,9 @@ FakeClassWithOneBlankMessage>>#blankMessageOne has no senders
 	FakeClassWithOneBlankMessage>>#blankMessageOne is a blank message
 -----------------------
 	
-FakeClassWithOneMessageWithOnlyComments>>#messageWithCommentsOnly has no senders
+The class FakeClassWithNoReferences does not ahve messages without senders
 -----------------------
-	La clase FakeClassWithOneMessageWithOnlyComments no tiene mensajes vacios
------------------------
-	
-FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageTwo has no senders
-FakeClassWithTwoMessagesWithoutSenders>>#fakeMessageOne has no senders
------------------------
-	La clase FakeClassWithTwoMessagesWithoutSenders no tiene mensajes vacios
+	The class FakeClassWithNoReferences does not have empty mesaages
 -----------------------
 	
 '
