@@ -1,3 +1,0 @@
-Applying
-name
-	self subclassResponsibility

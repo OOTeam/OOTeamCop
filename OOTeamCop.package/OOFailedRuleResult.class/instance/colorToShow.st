@@ -1,3 +1,0 @@
-Printing
-colorToShow
-	^ Color red

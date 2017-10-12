@@ -1,3 +1,0 @@
-Applying
-passedRuleTextFor: evaluatedClass
-	self subclassResponsibility

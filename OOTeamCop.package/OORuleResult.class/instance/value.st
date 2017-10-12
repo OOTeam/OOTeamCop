@@ -1,4 +1,0 @@
-Evaluating
-value
-
-	self subclassResponsibility

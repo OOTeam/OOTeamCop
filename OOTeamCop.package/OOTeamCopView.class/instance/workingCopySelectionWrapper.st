@@ -1,3 +1,0 @@
-Morphic-UI
-workingCopySelectionWrapper
-	^workingCopyWrapper

@@ -1,4 +1,0 @@
-Accessing
-methodErrorMessage
-
-	self subclassResponsibility

@@ -1,3 +1,0 @@
-Applying
-name
-	^ 'Regla compuesta'

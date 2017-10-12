@@ -1,3 +1,0 @@
-Accessing
-colorToShow
-	self subclassResponsibility

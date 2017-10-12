@@ -1,8 +1,0 @@
-{
-	"instance" : {
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingCompositeRuleWithNoSendersRuleAndBlankMessageRule" : "Anonymous 6/24/2017 18:51",
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingBlankMessageRule" : "Anonymous 6/24/2017 18:50",
-		"testOOTeamCopEvaluatesAllClassesOfAPackageUsingNoSendersRule" : "Anonymous 6/24/2017 18:51"
-	},
-	"class" : { }
-}
