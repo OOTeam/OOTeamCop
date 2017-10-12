@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OOTeamCop-Model-OOTeamCop-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"results"
+	],
+	"name" : "OOTeamCopReport",
+	"type" : "normal"
+}

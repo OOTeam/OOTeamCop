@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OOTeamRule",
+	"category" : "OOTeamCop-Model-OOTeamCop-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OOBlankMessagesRule",
+	"type" : "normal"
+}

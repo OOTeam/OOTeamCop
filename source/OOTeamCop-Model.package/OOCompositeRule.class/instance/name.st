@@ -1,0 +1,3 @@
+Applying
+name
+	^ 'Regla compuesta'

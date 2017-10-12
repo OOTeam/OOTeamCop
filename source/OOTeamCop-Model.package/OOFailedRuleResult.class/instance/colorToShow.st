@@ -1,0 +1,3 @@
+Printing
+colorToShow
+	^ Color red

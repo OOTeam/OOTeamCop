@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"testOOMessagesWithoutSendersRuleIndicatesThatThereIsTwoMessagesWithoutSendersInAClassWithTwoMessagesWithoutSenders" : "Anonymous 6/24/2017 18:44",
+		"testOOLargeMessageRuleIndicatesThatThereIsALargeMessageInFakeClassWithTwoMessagesWithoutSenders" : "Alvaro 5/7/2017 23:51",
+		"testOOCompositeRuleEvaluating" : "Anonymous 6/21/2017 23:34",
+		"testOOBlankMessagesRuleIndicatesThatThereIsNoBlankMessagesWhenTheMessageAssignsAVariable" : "Anonymous 6/24/2017 18:42",
+		"testOOBlankMessagesRuleWillNotConsiderAMessageWithCommentsOnlyAsABlankMessage" : "Anonymous 6/24/2017 18:42",
+		"testOOClassNotReferencedRuleIndicatesThatThereIsANotReferencesClass" : "Anonymous 6/21/2017 23:45",
+		"testOOUnnecesaryHierarchyRuleIndicatesThatThereIsAnUnnecesaryHierarchy" : "Anonymous 6/24/2017 18:49",
+		"testOOCompositeRuleEvaluatingAllRules" : "Alvaro 6/27/2017 00:00",
+		"testOOBlankMessagesRuleIndicatesThatThereIsABlankMessageInAClassWithABlankMessage" : "Anonymous 1/20/2017 23:18",
+		"testOOUnnecesaryHierarchyRuleIndicatesThatThereIsNotAnUnnecesaryHierarchy" : "Alvaro 6/27/2017 00:01"
+	},
+	"class" : { }
+}

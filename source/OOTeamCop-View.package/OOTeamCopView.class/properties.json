@@ -1,0 +1,29 @@
+{
+	"commentStamp" : "",
+	"super" : "MCTool",
+	"category" : "OOTeamCop-View",
+	"classinstvars" : [
+		"workingCopySearchList"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"Order"
+	],
+	"instvars" : [
+		"workingCopy",
+		"workingCopyWrapper",
+		"repository",
+		"defaults",
+		"order",
+		"repositoryPattern",
+		"workingCopyPattern",
+		"repositoryProcess",
+		"packageProcess",
+		"showOnlyRepositoriesFromWorkingCopy",
+		"selectedRules",
+		"listMorph",
+		"workingCopyListMorph"
+	],
+	"name" : "OOTeamCopView",
+	"type" : "normal"
+}

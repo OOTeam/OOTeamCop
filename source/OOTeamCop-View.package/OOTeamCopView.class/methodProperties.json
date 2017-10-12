@@ -1,0 +1,39 @@
+{
+	"instance" : {
+		"runOOTeamCopOverSelectedPackage" : "Anonymous 6/25/2017 12:34",
+		"multiSelectionListMorphFrom:" : "Alvaro 4/3/2017 21:19",
+		"workingCopySelection" : "Anonymous 3/2/2017 23:33",
+		"rulesFromTreeMorph" : "Alvaro 4/4/2017 00:34",
+		"initialize" : "Anonymous 6/18/2017 20:56",
+		"widgetSpecs" : "Anonymous 6/18/2017 22:01",
+		"workingCopySearchField" : "Anonymous 3/2/2017 23:33",
+		"workingCopies" : "Anonymous 6/18/2017 22:40",
+		"rulesList" : "Alvaro 4/3/2017 21:04",
+		"treeMorphNoMenu:" : "Anonymous 6/18/2017 22:01",
+		"workingCopySelectionWrapper:" : "Anonymous 6/18/2017 22:23",
+		"buildWindow" : "Anonymous 6/18/2017 20:55",
+		"windowIsClosing" : "Anonymous 6/18/2017 22:40",
+		"workingCopySearchAccept:" : "Anonymous 6/18/2017 22:29",
+		"selectedRules:" : "Alvaro 3/30/2017 23:26",
+		"workingCopy:" : "Anonymous 6/18/2017 22:40",
+		"workingCopySelection:" : "Anonymous 3/2/2017 23:33",
+		"workingCopyTree" : "Anonymous 6/18/2017 20:50",
+		"workingCopyListChanged" : "Anonymous 6/18/2017 22:33",
+		"selectedRules" : "Alvaro 3/30/2017 23:26",
+		"runRulesOnPackage" : "Alvaro 6/18/2017 18:31",
+		"buttonSpecs" : "Alvaro 5/20/2017 16:41",
+		"workingCopySelectionWrapper" : "Anonymous 3/2/2017 23:33",
+		"defaultLabel" : "Anonymous 3/4/2017 12:05",
+		"update:" : "Alvaro 5/20/2017 14:15",
+		"orderSpecs" : "Anonymous 6/18/2017 22:22",
+		"initialExtent" : "Anonymous 3/2/2017 23:20"
+	},
+	"class" : {
+		"registerToolsOn:" : "Anonymous 3/4/2017 11:55",
+		"menuCommandOn:" : "Alvaro 4/4/2017 00:59",
+		"open" : "Anonymous 3/2/2017 23:45",
+		"workingCopySearchList" : "Anonymous 3/2/2017 23:47",
+		"order:" : "Anonymous 3/2/2017 23:46",
+		"order" : "Anonymous 3/2/2017 23:45"
+	}
+}

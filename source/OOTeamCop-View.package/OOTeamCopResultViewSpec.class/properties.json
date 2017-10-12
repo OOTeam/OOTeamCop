@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "OOTeamCop-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"results",
+		"resultsDecorators"
+	],
+	"name" : "OOTeamCopResultViewSpec",
+	"type" : "normal"
+}

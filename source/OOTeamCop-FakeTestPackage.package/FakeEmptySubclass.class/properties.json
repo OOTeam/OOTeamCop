@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FakeClassWithOneBlankMessage",
+	"category" : "OOTeamCop-FakeTestPackage",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FakeEmptySubclass",
+	"type" : "normal"
+}

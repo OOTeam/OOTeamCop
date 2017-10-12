@@ -1,0 +1,3 @@
+Accessing
+colorToShow
+	self subclassResponsibility

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OOTeamCop-FakeTestPackage",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fake"
+	],
+	"name" : "FakeClassWithAMessageThatAssignsAVariable",
+	"type" : "normal"
+}
